@@ -1,4 +1,31 @@
 # wine-quality-prediction
-Designed and implemented an end-to-end machine learning solution to predict wine quality based on physicochemical attributes. The project involved comprehensive data preprocessing, exploratory data analysis, and feature engineering to improve data quality and model performance. Multiple supervised learning algorithms were trained, evaluated, and compared using standard performance metrics to identify the most effective model. The solution demonstrates strong analytical skills, practical application of machine learning techniques, and proficiency in Python-based data science tools.
-Technologies used : python , numpy ,pandas , scikit-learn, matplotlib , jupyter lab
-Machine Learning algorithm is to be used is Randomforesregressor
+* buit an end to end machine learning model to predict wine quality based on physicochemical properties
+
+* performed data cleaning, preprocessing and transformation to prepare the dataset for modeling
+
+* applid feature scaling and selection techniques to imporove model accuracy and stability
+
+* checked the all root mean squaring value by applying different types of machine learning algorithm
+  like Randomforestregressor,linearregression
+
+  the linearregression have value  0.43
+
+  and the Randomforestregressor have value 0.046
+ 
+*  with lower rmse value we used Randomforestregressor as an machine learning algorithm
+
+*  TECHNIQUES THAT USED FOR DATA ANALYSIS IS
+
+   -PANDAS
+
+   -NUMPY
+
+   -MATPLOTLIB
+ 
+   -SCIKITLRARN
+
+   -JUPYTERLAB
+
+* AT the end predicted dataset is compared with the original dataset by using scatter graph 
+
+ 
