@@ -3,7 +3,7 @@
 
 * performed data cleaning, preprocessing and transformation to prepare the dataset for modeling
 
-* applid feature scaling and selection techniques to imporove model accuracy and stability
+* applid feature scaling and selection techniques to improve model accuracy and stability
 
 * checked the all root mean squaring value by applying different types of machine learning algorithm
   like Randomforestregressor,linearregression
